@@ -1,0 +1,30 @@
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\bin\Debug\sistema para Biblioteca.exe.config
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\bin\Debug\sistema para Biblioteca.exe
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\bin\Debug\sistema para Biblioteca.pdb
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema para Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.Properties.Resources.resources
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema para Biblioteca.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema para Biblioteca.exe
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema para Biblioteca.pdb
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.sistema.resources
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.prestamos.resources
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.Usuario.resources
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.Libros.resources
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.Login.resources
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.Record_de_libros.resources
+C:\Users\Usuario\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.ayuda.resources
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\bin\Debug\sistema para Biblioteca.exe.config
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema para Biblioteca.exe
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema para Biblioteca.pdb
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\bin\Debug\sistema para Biblioteca.exe
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\bin\Debug\sistema para Biblioteca.pdb
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema para Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.sistema.resources
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.ayuda.resources
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.Libros.resources
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.Login.resources
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.prestamos.resources
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.Properties.Resources.resources
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.Record_de_libros.resources
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema_para_Biblioteca.Usuario.resources
+C:\Users\PC\Desktop\sistema para Biblioteca\sistema para Biblioteca\sistema para Biblioteca\obj\Debug\sistema para Biblioteca.csproj.GenerateResource.Cache
